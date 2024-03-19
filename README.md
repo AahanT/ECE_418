@@ -51,6 +51,7 @@ Topics covered:
 + **C++** : the **C++** folders have **Makefile** which can be used to run the **C++** files. You can do this by running the following on the terminal:
 ```
 make file_name_without_the_.cc
+./file_name_without_the_.cc
 ```
 + **Jupyter Notebook** : the **.ipynb** files can run in + **Jupyter Notebook**. No extra steps needed.
 + **MATLAB** : the **.m** files can run in **MATLAB** environment. No extra steps needed.
